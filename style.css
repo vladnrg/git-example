@@ -1,0 +1,58 @@
+body{
+    background-image:url(https://basik.ru/images/wallpapers_4829/21_wallpapers.jpg);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;    
+
+}
+
+#unique{
+   padding: 10px;
+    background-color:red;
+    height: 150px;
+    width: 300px;
+    overflow: hidden;
+
+}
+.block_second{
+    padding: 5px;
+    background-color: black;
+    color: blanchedalmond;
+    height: 150px;
+    width: 300px;
+    overflow-y: scroll;
+
+}
+div h5{
+    padding: 8px;
+    background-color:blue;
+    color: blanchedalmond;
+    height: 150px;
+    width: 300px;
+    overflow-y: scroll;
+    }
+.header{
+    margin-bottom: 100px;
+}
+.col{ 
+     border: 1px solid black;
+     height: 100px;
+     }
+     .col-xl, .col-lg, .col-sm, .col-xs{
+         border: 1px solid black}
+
+#string_red{
+    background-color:red;
+}
+#string_yellow{
+    background-color: yellow;
+}
+#string_purple{
+    background-color:purple;
+}
+#string_green{
+    background-color:green;
+}
+#string_orange{
+    background-color:orange;
+}
